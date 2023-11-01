@@ -25,7 +25,7 @@ Check out the live demo [here](https://estifanos12.github.io/OpenType/).
 
 ## Screenshots with different themes
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Estifanos12/OpenType/blob/main/screenshots/screenshot-0.png?raw=true">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/mikii17/OpenType/blob/main/screenshots/screenshot-0.png?raw=true">
 
 <br>
 
@@ -37,7 +37,7 @@ To run this app locally, follow these steps:
 Clone this repository
 
 ```bash
-git clone https://github.com/Estifanos12/OpenType.git
+git clone https://github.com/mikii17/OpenType.git
 ```
 
 Navigate to the project directory
